@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+@media screen {
+    .menu-container {
+        display: flex;
+        background-color: #ff7170;
+    }
+
+    .text-container {
+        background-color: #ff7170;
+        height: 280px;
+        margin: 10px;
+        width: 80vw;
+    }
+
+    .p1 {
+        width: 50vw;
+        font-family: Roboto;
+        font-weight: bold;
+        font-size: 20px;
+    }
+
+    .burgerimg {
+        width: 50vw;
+        height: 350px;
+    }
+
+    .mister-img {
+        margin: 10px;
+        width: 32vw;
+        height: 520px;
+    }
+
+    .bronzini-img {
+        margin: 10px;
+        width: 32vw;
+        height: 250px;
+    }
+
+    .claire-img {
+        margin: 10px;
+        width: 32vw;
+        height: 250px;
+    }
+
+    .menu-img {
+        width: 40px;
+    }
+
+    .paragraph {
+        text-align: center;
+        font-family: Roboto;
+
+    }
+
+    .middle {
+        text-align: center;
+    }
+
+    .heading {
+        text-align: center;
+        font-family: Roboto;
+        text-transform: capitalize;
+    }
+
+    .click-button {
+        background-color: #fd7172;
+        color: white;
+        border-radius: 0px;
+        border-color: transparent;
+        padding: 10px;
+        padding-right: 45px;
+        padding-left: 45px;
+    }
+
+    .arrow-img {
+        padding: 15px;
+        padding-bottom: 20px;
+    }
+
+    .click {
+        padding: 15px;
+        display: flex;
+    }
+
+    .middle {
+        background-image: linear-gradient(to right, #fef4af, #ffd7cb);
+    }
+
+    .section-container {
+        background-color: #ffd7cb;
+
+        display: flex;
+        text-align: center;
+    }
+
+    .bottom-container {
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 100px;
+        background-color: #ffd7cb;
+        background-image: linear-gradient(to right, #ffefb1, #ffb4ed);
+        display: flex;
+    }
+}
